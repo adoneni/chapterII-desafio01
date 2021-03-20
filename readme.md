@@ -1,0 +1,3 @@
+<h1 align="center">Desafio#01 do chapter II do curso Ignite da <a href="https://github.com/rocketseat">Rocketseat</a></h1>
+
+<p align="center">Projeto efetuado em cima de um template disponibilizado pela Rocketseat, onde precisei escrever as fun&ccedil;&otilde;es do hook do useCart, preencher o componente Header com o length do cart, al&eacute;m de desenvolver a parte de listar produtos na p&aacute;gina Home e os produtos do carrinho na p&aacute;gina Cart. </p>
